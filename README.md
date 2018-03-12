@@ -1,4 +1,6 @@
-# android-syllabus
+# android syllabus
+
+## Saran, menggunakan bahasa pemrograman kotlin. Dimulai dari pengantar kotlin, OOP kotlin, hingga sampel project menggunakan kotlin.
 
 ### Beginner
 
