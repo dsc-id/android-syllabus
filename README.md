@@ -1,6 +1,6 @@
 # android syllabus
 
-#### Saran, menggunakan bahasa pemrograman kotlin. Dimulai dari pengantar kotlin, OOP kotlin, hingga sampel project menggunakan kotlin.
+#### Saran, menggunakan bahasa pemrograman Java, kemudian di level Intermediate / Advanced dipindah dengan Kotlin. Dimulai dari pengantar kotlin, OOP kotlin, hingga sampel project menggunakan kotlin.
 
 ### Beginner
 
